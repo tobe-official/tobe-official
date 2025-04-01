@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tobe-official
+- 👀 I’m interested in software development (specifically mobile development).
+- 🌱 I’m currently learning Italian
+- 💞️ I’m looking to collaborate on many Mobile Applications
