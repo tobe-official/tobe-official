@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a dedicated software developer with a strong
 
 ## 👨‍💻 About Me
 - 🔭 Currently working on various **mobile applications** with attention to performance and user experience.
-- 💡 Passionate about **Flutter**, **.NET MAUI**, and modern cross-platform development.
+- 💡 Passionate about **Flutter**, and modern cross-platform development.
 - 🎯 Always striving to write **clean, scalable, and maintainable code**.
 - 🤝 Open to collaboration on **innovative app ideas** and developer-friendly tools.
 
