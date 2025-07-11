@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I’m a dedicated software developer with a strong
 
 ## ⚙️ Tech Stack
 - **Languages:** Dart, C#, Java, TypeScript  
-- **Frameworks:** Flutter, .NET MAUI, Spring Boot  
-- **Tools & Platforms:** Android Studio, Visual Studio, Git, GitHub, Docker, Kubernetes (learning)  
+- **Frameworks:** Flutter, Angular, Spring Boot  
+- **Tools & Platforms:** Android Studio, Visual Studio, Git, GitHub
 
 ## 📫 Let's Connect
 I’m always open to exchanging ideas and working on meaningful software. Feel free to reach out or explore my repositories.
